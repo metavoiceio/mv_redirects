@@ -1,0 +1,9 @@
+{
+    "redirects": [
+        {
+            "source": "/(.*)",
+            "destination": "https://metavoice.notion.site",
+            "permanent": true
+        }
+    ]
+}
